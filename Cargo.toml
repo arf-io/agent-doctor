@@ -1,0 +1,17 @@
+[package]
+name = "agent-doctor"
+description = "AI agent environment readiness and diagnostics"
+edition = "2021"
+version = "0.1.0"
+license = "MIT"
+repository = "https://github.com/damienheiser/agent-doctor"
+homepage = "https://arf.io"
+readme = "README.md"
+keywords = ["ai", "agents", "diagnostics", "cli"]
+categories = ["command-line-utilities", "development-tools"]
+
+[dependencies]
+
+[features]
+default = []
+engrave-integration = []
